@@ -13,7 +13,7 @@ This is a final project in ["Python Project for Data Engineering"](https://www.c
 
 This repo serves as my code for the final project where I have to apply the concepts in the previous exercises.
 
-WHAT YOU WILL LEARN
+# What You Will Learn
 
 1. Demonstrate your skills in Python for data engineering tasks.
 2. Implement webscraping and use APIs to collect data in Python.
