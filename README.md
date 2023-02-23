@@ -13,7 +13,7 @@ This is a final project in ["Python Project for Data Engineering"](https://www.c
 
 This repository serves as my code for the final project where I have to apply the concepts in the previous exercises.
 
-Original text above by @isumalde.
+Original text above by ["@isumalde"](https://github.com/isumalde/ETL_Coursera_Project).
 
 # What You Will Learn (IBM description):
 
