@@ -1,0 +1,1 @@
+['2023-Feb-23-14:16:10,ETL Job Started\n', '2023-Feb-23-14:16:13,Extract phase Started\n', '2023-Feb-23-14:16:18,Extract phase Ended\n', '2023-Feb-23-14:16:21,Transform phase Started\n', '2023-Feb-23-14:16:25,Transform phase Ended\n', '2023-Feb-23-14:16:29,Load phase Started\n', '2023-Feb-23-14:19:24,Load phase Ended\n']
