@@ -12,7 +12,8 @@ This is a final project in ["Python Project for Data Engineering"](https://www.c
 8. Save the transformed data in a ready-to-load format which data engineers can use to load the data.
 
 This repository serves as my code for the final project where I have to apply the concepts in the previous exercises.
-Original above text by @isumalde
+
+Original text above by @isumalde.
 
 # What You Will Learn (IBM description):
 
